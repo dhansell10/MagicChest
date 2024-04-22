@@ -1,0 +1,2 @@
+# MagicChest
+My personal repository.
